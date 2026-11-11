@@ -17,9 +17,9 @@ We explored how a quadruped can follow an image-space reference trajectory for c
 [Watch the demo and explore the code](https://github.com/DefineDan/mapless-robotics#readme)
 
 ### 🎯 KTH Edge AI & Robotics Challenge
-I worked on integrating single-robot exploration and ArUco marker detection in a ROS 2 and Gazebo rescue arena.
+I am working on integrating single-robot exploration and ArUco marker detection in a ROS 2 and Gazebo rescue arena.
 
-[See the implementation in the pull request](https://github.com/diegoosoriof/edgeai_robot_ws/pull/12)
+[See the implementation here](https://github.com/diegoosoriof/edgeai_robot_ws/pull/12)
 
 ## What I’m working on now
 
