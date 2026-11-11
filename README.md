@@ -1,8 +1,6 @@
 # Hi, I’m Diego Osorio 👋
 
-I’m a mechatronics engineer pursuing an MSc in **Systems, Control and Robotics at KTH Royal Institute of Technology**. I’m based in Stockholm, where I’m also an intern at **Furhat Robotics** in the prototyping and concepting team.
-
-My background in mechatronics has given me experience working across software, electronics, and mechanical systems. Before moving to Sweden, I also worked as a laboratory assistant in Colombia, supporting practical learning and laboratory activities.
+I’m a mechatronics engineer pursuing an MSc in **Systems, Control and Robotics at KTH Royal Institute of Technology**. I’m based in Stockholm, where I’m also an intern at **Furhat Robotics** in the prototyping and concepting team. My background in mechatronics has given me experience working across software, electronics, and mechanical systems.
 
 I enjoy working on projects that bring these areas together to create systems that interact with the physical world. My recent work has focused on **robot perception, mapping, localization, and navigation**, from helping a mobile manipulator localize with LiDAR to exploring image-based navigation and 3D scene understanding.
 
