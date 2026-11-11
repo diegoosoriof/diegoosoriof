@@ -4,7 +4,7 @@ I’m a mechatronics engineer pursuing an MSc in **Systems, Control and Robotics
 
 I work on robot perception and navigation. My recent projects range from helping a mobile manipulator localize with LiDAR to exploring how robots can navigate using visual cues and how we can evaluate their understanding of 3D scenes.
 
-## Selected projects
+## Projects
 
 ### 🤖 Autonomous Mobile Manipulation
 Our team built a ROS 2 robot that explores an indoor environment, identifies objects, and picks them up. I led mapping and localization, using wheel odometry, IMU data, and LiDAR scan matching to estimate and correct the robot’s pose.
@@ -12,7 +12,7 @@ Our team built a ROS 2 robot that explores an indoor environment, identifies obj
 [View the project repository](https://github.com/clefal/dd2419_ws)
 
 ### 🧭 Mapless Robotics
-We explored how a quadruped can follow an image-space reference trajectory for collaborative object search. The repository includes a video demo and instructions to run the system.
+We explored on simulation how a robot can follow an image-space reference trajectory for collaborative space exploration and object search/retrieval. The repository includes a video demo and instructions to run the system.
 
 [Watch the demo and explore the code](https://github.com/DefineDan/mapless-robotics#readme)
 
